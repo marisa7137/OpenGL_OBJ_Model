@@ -1,0 +1,71 @@
+﻿  Camera.cpp
+  GLFWwindow.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\UNNC\Y3-graphics\cw\3\coursework3\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  Model.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\UNNC\Y3-graphics\cw\3\coursework3\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(144,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(145,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(146,77): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(154,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(155,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(156,81): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(166,79): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(167,79): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Model.cpp(168,79): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Skybox.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\UNNC\Y3-graphics\cw\3\coursework3\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  Sphere.cpp
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.cpp(56,32): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.cpp(82,53): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.cpp(84,53): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.cpp(86,53): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  main.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\UNNC\Y3-graphics\cw\3\coursework3\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\Sphere.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\main.cpp(167,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\UNNC\Y3-graphics\cw\3\coursework3\coursework3\main.cpp(167,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+glad.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  coursework3.vcxproj -> F:\UNNC\Y3-graphics\cw\3\coursework3\x64\Debug\coursework3.exe
