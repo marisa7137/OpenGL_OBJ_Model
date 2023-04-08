@@ -185,5 +185,16 @@ int main()
 		glfwSwapBuffers(window);
 	}
 	glfwTerminate();
+	delete m;
+	delete m2;
+	delete m3;
+	delete s;
+	delete c1;
+	delete c2;
+	delete s1;
+	delete s2;
+	delete s3;
+	delete s4;
+	delete sky;
 	return 0;
 }
